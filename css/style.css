@@ -1,6 +1,11 @@
-.err{
-    font-size: 50px; 
+
+.err {
+    font-size: 50px;
     color: crimson;
     text-transform: capitalize;
 }
 
+.box2,
+.heading{
+    display: none;
+}
